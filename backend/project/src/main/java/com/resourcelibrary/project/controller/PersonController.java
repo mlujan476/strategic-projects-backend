@@ -22,7 +22,7 @@ public class PersonController {
     public PersonRepository personRepository;
 
     @GetMapping("/test")
-    @CrossOrigin(origins = "http://localhost:3000")
+    @CrossOrigin(origins = "http://localhost:5173")
     public String test()
     {
         String a = "migos";
@@ -31,7 +31,7 @@ public class PersonController {
 
 
     @PostMapping("/create")
-    @CrossOrigin(origins = "http://localhost:3000")
+    @CrossOrigin(origins = "http://localhost:5173")
     public Person save(@RequestBody Person person) {
 
         try {
@@ -51,7 +51,7 @@ public class PersonController {
     }
 
     @GetMapping
-    @CrossOrigin(origins = "http://localhost:3000")
+    @CrossOrigin(origins = "http://localhost:5173")
     public List<Person> findAll() {
 
         List<Person> persons =  personRepository.findAll();

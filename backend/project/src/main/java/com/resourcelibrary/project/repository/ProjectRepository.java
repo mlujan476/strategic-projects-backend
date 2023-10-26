@@ -46,4 +46,9 @@ public class ProjectRepository {
 
         return id;
     }
+
+    public void delete(String id){
+        Project toDelete = dynamoDBMapper.load(Project.class, id);
+        dynamoDBMapper.delete(toDelete);
+    }
 }

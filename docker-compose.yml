@@ -29,15 +29,16 @@ services:
 
   frontend:
     container_name: frontend
+    image: frontend
     build:
-      context: ./frontend
+      context: ./test-app
       dockerfile: Dockerfile
     ports:
-      - 3000:3000
+      - 5173:5173
     expose:
-      - "3000"
+      - "5173"
     volumes: 
-      - ./frontend/src:/app/src
+      - ./test-app/src:/app/src
     # environment:
     #   NODE_OPTIONS: --openssl-legacy-provider
 
