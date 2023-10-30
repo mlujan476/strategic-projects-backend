@@ -1,0 +1,61 @@
+{
+    "title": "",
+    "path":"",
+    "bannerUrl": "",
+    "description":"",
+    "goals": 
+    [
+        {
+            "title": "",
+            "description":"",
+            "lists": [
+                {
+                    "heading": "",
+                    "items": [""]
+                }   
+            ]
+        }
+    ],
+    "programs": {
+        "title":"",
+        "description":"",
+        "lists": [
+            {
+                "heading": "",
+                "items": [""]
+            }
+        ],
+        "links": [
+            {
+                "name":"",
+                "url":""
+            }
+        ]
+
+    },
+    "team_members":[
+        {
+            "name":"",
+            "role":""
+        }
+    ], 
+    "contact":{
+        "name": "",
+        "link": ""
+    },
+    "resources": [
+        {
+            "name":"",
+            "link":""
+        }
+    ],
+    "partners": [
+        {
+            "name":"",
+            "link":""
+        }
+    ]
+    
+
+
+}

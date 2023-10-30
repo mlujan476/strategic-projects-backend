@@ -1,0 +1,486 @@
+[
+{
+    "title": "WHO Collaborating Center for Digital Learning in Health Emergencies",
+    "path":"WHO-Collaborating-Center",
+    "bannerUrl": "",
+    "description":"Welcome to the World Health Organization Collaborating Center for Digital Learning in Health Emergencies, the first WHO Collaborating Center dedicated to advancing digital learning for strengthening emergency preparedness and response.",
+    "goals": [
+        {
+            "title": "Our Mission",
+            "description":"Leverage Project ECHO's more than two decades of digital learning expertise to expand the use of digital learning tools to address global public health training needs, strengthen workforce capacity, and build preparedness for new health emergencies in WHO's headquarters, regions, member states, and special units.",
+            "lists": 
+            [
+                {
+                    "heading": "Objectives",
+                    "items": ["Deliver synchronous digital learning solutions for WHO's headquarters, regions, countries, and special units in support of WHO's GPW13 outcome 2.1.2. Capacities for emergencies strengthened in all countries.", "Support workforce capacity building across WHO's areas of work, with particular emphasis on the health emergencies programme.", "Build capacity within WHO on how to design, implement and facilitate the delivery of digital learning to geographically dispersed locations in a variety of different settings, including vulnerable and low-resourced environments."]
+                }
+            ]
+        }
+    ],
+    "programs":  {
+        "title":"WHO Collaborations",
+        "description":"Together with WHO, we're committed to democratizing knowledge and best practices, ensuring equitable access to life-saving information for public health leaders and frontline workers in underserved communities. Our efforts span crucial areas, including COVID-19 immunization, infection prevention and control, Integrated Disease Surveillance and Response (IDSR), antimicrobial resistance, patient safety, nursing and midwifery, public health laboratory strengthening, and HIV, Viral Hepatitis, and STIs.",
+        "lists": [{
+            "heading": "",
+            "items": [""]
+        }],
+        "links": [
+            {
+                "name":"",
+                "url":""
+            }
+        ]
+
+    },
+    "resources": [
+        {
+            "name":"",
+            "link":""
+        }
+    ],
+    "team_members":[
+        {
+            "name":"Heini Utunen, PhD",
+            "role":"WHO Responsible Officer, Unit Head, Learning and Capacity Development, WHO Health Emergencies Programme, World Health Organization"
+        },
+        {
+            "name":"Bruce Struminger, MD, MA, FACP",
+            "role":"Senior Associate Director and ECHO's Global Health Initiatives Leader"
+        },
+        {
+            "name":"Amy Groom, MPH",
+            "role":"Director of Immunization Initiatives and Deputy Associate"
+        },
+        {
+            "name":"Amy Armistad, MA",
+            "role":"Strategic Support Manager"
+        },
+        {
+            "name":"Jutta Lehmer",
+            "role":"Strategic Support Manager"
+        },
+        {
+            "name":"Lauren Burke, BA",
+            "role":"Strategic Support Manager"
+        },
+        {
+            "name":"Alexa Copeland",
+            "role":"Program Manager"
+        },
+        {
+            "name":"Amanda Dean",
+            "role":"Program Manager"
+        },
+        {
+            "name":"Constance Were",
+            "role":"Program Planning Manager"
+        },
+        {
+            "name":"Iiris Rinne, M. ED",
+            "role":"Program Specialist"
+        },
+        {
+            "name":"Michelle Morrison",
+            "role":"Program Specialist"
+        },
+        {
+            "name":"NoaNoa Laget-Hudson",
+            "role":"Program Specialist"
+        },
+        {
+            "name":"Samantha Nagel",
+            "role":"Program Specialist"
+        },
+        {
+            "name":"Shannon McKenna",
+            "role":"Data Analyst"
+        }
+    ], 
+    "contact":{
+        "name": "Project ECHO Global Health Initiatives Team",
+        "link": "ECHOGlobalHealth@salud.unm.edu"
+    },
+    "partners": [
+        {
+            "name":"",
+            "link":""
+        }
+    ]
+
+
+},
+
+{
+    "title": "Revolutionizing Cancer Care Delivery",
+    "path":"",
+    "bannerUrl": "",
+    "description":"Ninety percent of medical oncologists practice in urban areas, leaving rural communities without the capacity to screen, diagnose, and treat patients with cancer, many of whom are diagnosed at later and less treatable stages. People in nonmetropolitan counties are more likely to die from cancer than their urban and suburban counterparts, and that gap is widening. The ECHO Model amplifies the work of your organization to share best practices and increase provider satisfaction, self-efficacy, and capacity to decrease cancer disparities globally.",
+    "goals": [
+        {
+            "title": "Develop Cancer Expertise",
+            "description":"By participating in ECHO or starting your own, you develop expertise in cancer prevention, screening and treatment in the following areas.",
+            "lists": 
+            [
+                {
+                    "heading": "Prevention",
+                    "items": ["Cancer control planning", "Community cancer intervention & prevention", "HPV vaccination", "Smoking/tobacco cessation", "Sun safety & skin cancer prevention"]
+                },
+                {
+                    "heading": "Screening",
+                    "items": ["Breast cancer", "Cervical cancer", "Colorectal cancer", "Dermatology/skin cancer", "Oral & lung cancer", "Pathology best practices", "Training peer and community health advocates"]
+                },
+                {
+                    "heading": "Treatment",
+                    "items": ["Cancer care navigation", "Clinical trial enrollment", "Palliative Care", "Pain & toxicity management", "Precision medicine & genomics", "Survivorship", "Tumor Boards"]
+                }
+            ]
+        }
+    ],
+    "programs": {
+        "title":"Cancer Collaborative",
+        "description":"The Cancer Collaborative is a monthly call to discuss program challenges and solutions, as well as grant and research opportunities for ECHO Cancer partners. Partners will have the opportunity to present their ECHO as a case to the network to learn best practices in the intricacies of operating an ECHO Hub in the cancer space. Register, view upcoming session details and other key resources: Cancer ECHO Collaborative Portal (secondary button)",
+        "lists": [
+            {
+                "heading": "",
+                "items": [""]
+            }
+        ],
+        "links": [
+            {
+                "name":"",
+                "url":""
+            }
+        ]
+
+    },
+    "team_members":[
+        {
+            "name":"",
+            "role":""
+        }
+    ],
+    "resources": [
+        {
+            "name":"Cancer ECHO Flyer",
+            "link":"https://iecho.unm.edu/sites/unm/download.hns?is=9332ad12183bc7657c5f7095e785d856&_gl=1*1v23z6h*_gcl_au*MTM0MTYxMDUxLjE2ODk2MTA2Mjk."
+        },
+        {
+            "name":"Cancer ECHO Bibliography",
+            "link":"https://iecho.unm.edu/sites/unm/download.hns?is=c9b71158b6bf8647aa8bde61106f3152&_gl=1*114ku84*_gcl_au*MTM0MTYxMDUxLjE2ODk2MTA2Mjk."
+        },
+        {
+            "name":"COVID-19 Global Conversations",
+            "link":"https://youtu.be/H4STnwfF0ME"
+        },
+        {
+            "name":"ECHO Impact: Screening for Cervical Cancer in India",
+            "link":"https://youtu.be/GpH5xrz12Qc"
+        },
+        {
+            "name":"Igniting the Cancer Community",
+            "link":"https://youtu.be/hcR5suWqpbE"
+        },
+        {
+            "name":"Immuno-Oncology Institute, Telemedicine Roundtable",
+            "link":"https://youtu.be/ou-iiiO9FVU"
+        },
+        {
+            "name":"ECHO’s Work in Cancer",
+            "link":"https://youtu.be/LaBgxLXn3K8"
+        },
+        {
+            "name":"Addressing high cervical cancer rates in the Rio Grande Valley along the Texas-Mexico border: A community-based initiative focused on education, patient navigation, and medical provider training/telementoring. eCancer Medical Science. 2023",
+            "link":"https://ecancer.org/en/journal/article/1516-covid-19-exposed-pre-existing-roadblocks-for-cancer-control-in-africa-strategies-lessons-and-recommendations-from-the-2019-2020-africa-cancer-research-and-control-echo"
+        },
+        {
+            "name":"Implementing cancer screening programs by training primary care physicians in India – findings from the National Institute of Cancer Prevention and Research Project ECHO for Cancer Prevention. Global Implementation Research and Applications. 2022",
+            "link":"https://link.springer.com/article/10.1007/s43477-021-00032-1"
+        },
+        {
+            "name":"Preparing future medicine physicians to care for cancer survivors: Project ECHO in a novel internal medicine and family medicine residency curriculum. Journal of Cancer Education.2022",
+            "link":"https://link.springer.com/article/10.1007/s13187-022-02161-z"
+        },
+        {
+            "name":"Preparing future medicine physicians to care for cancer survivors: Project ECHO in a novel internal medicine and family medicine residency curriculum. Journal of Cancer Education.2022",
+            "link":"https://link.springer.com/article/10.1007/s13187-022-02161-z"
+        },
+        {
+            "name":"Enhancing cancer prevention and survivorship care with a videoconferencing model for continuing education: A mixed-methods study to identify barriers and incentives to participation. JAMIA Open. 2022",
+            "link":"https://link.springer.com/article/10.1007/s13187-022-02161-z"
+        }
+    ], 
+    "contact":{
+        "name": "Explore opportunities for collaboration",
+        "link": "cancerECHO@salud.unm.edu"
+    },
+    "partners": [
+        {
+            "name":"",
+            "link":""
+        }
+    ]
+    
+
+
+},
+
+{
+    "title": "Global Palliative Care ECHO Partnership",
+    "path":"palliative-care",
+    "bannerUrl": "",
+    "description":"The Global Palliative Care ECHO Collaborative is a monthly call to discuss program challenges and solutions. Partners will have the opportunity to present their ECHO as a case to the network to learn best practices in the intricacies of operating an ECHO hub in the palliative care space. Visiting presenters will be invited to speak on varying topics related to ECHO Palliative Care.",
+    "goals":
+     [
+        {
+            "title": "",
+            "description":"",
+            "lists": [
+                {
+                    "heading": "",
+                    "items": [""]
+                }
+            ]
+        }
+    ],
+    "programs": {
+        "title":"Collaborative Portal",
+        "description":"For more information, including participant and presenter registration, upcoming session details and key resources:",
+        "lists": [
+            {
+                "heading": "",
+                "items": [""]
+            }
+        ],
+        "links": [
+            {
+                "name":"Global Palliative Care ECHO Partnership Portal",
+                "url":"https://app.smartsheet.com/b/publish?EQBCT=bc96539dd7af4bc98818470e5da419ce"
+            }
+        ]
+
+    },
+    "team_members":[
+        {
+            "name":"Lisa Marr, MD",
+            "role":"Co-Medical Director, New Mexico Palliative Care ECHO"
+        },
+        {
+            "name":"Chris Piromalli, DO, MPH",
+            "role":"Co-Medical Director, New Mexico Palliative Care ECHO"
+        }
+    ], 
+    "contact":{
+        "name": "Global Palliative Care ECHO Team",
+        "link": "globalpalliativecareechopartnership@salud.unm.edu"
+    },
+    "resources": [
+        {
+            "name":"",
+            "link":""
+        }
+    ],
+    "partners": [
+        {
+            "name":"",
+            "link":""
+        }
+    ]
+    
+
+
+},
+
+{
+    "title": "ECHO Global Health Initiatives in HIV, Tuberculosis and Health Security",
+    "path":"global-health-initiatives",
+    "bannerUrl": "",
+    "description":"Project ECHO is rapidly growing in Africa, Asia and Latin America, supporting care and treatment in HIV, tuberculosis, laboratory strengthening and global health security. HIV, TB and other infectious diseases are treatable with the right knowledge at the right place and right time.",
+    "goals": [
+        {
+            "title": "The Global HIV ECHO Initiative",
+            "description":"A collaboration with the U.S. Centers for Disease Control and Prevention and other partners aiming to improve care and treatment of the estimated 37 million people living with HIV worldwide. The initiative currently focuses on high burden countries in Sub-Saharan Africa, Central Asia and Latin-America supported through the President's Emergency Plan for AIDS Relief.",
+            "lists": [
+                {
+                    "heading": "",
+                    "items": [""]
+                }
+            ]
+        },
+        {
+            "title": "The Global Tuberculosis ECHO Initiative",
+            "description":"The initiative supports the World Health Organization's Global Plan to End TB. Twelve countries are implementing TB ECHO programs in: Vietnam, India, Georgia, Kenya,Uganda, Tanzania, Mozambique, Namibia, Guatemala, Honduras, Panama, and the United States. In the United States, there are ECHO programs along the U.S.- Mexico border, in New Mexico, Colorado, Washington and Massachusetts. The programs focus on strengthening care and treatment of multi-drug resistant TB, pediatric TB, TB Data 4 Action and TB infection.",
+            "lists": [
+                {
+                    "heading": "",
+                    "items": [""]
+                }
+            ]
+        },
+        {
+            "title": "ECHO Programs Focused on Laboratory Strengthening",
+            "description":"",
+            "lists": [
+                {
+                    "heading": "",
+                    "items": ["ECHO programs focused on laboratory strengthening are part of the effort to address HIV, TB and global health security threats.", "Project ECHO works with the:  African Society for Laboratory Medicine connecting 11 African countries to share best practices on HIV Viral Load Scale Up: Tanzania Health Promotion System on improving HIV Rapid Testing and TB diagnostics across Tanzania American Society for Microbiology to address Antimicrobial Resistance in Kenya and Ethiopia South Africa National Health Laboratory Service to strengthen laboratory services.",  "Project ECHO supports the Global Health Security Initiative by working with the Africa CDC in their mission to improve infectious disease surveillance, public health emergency preparedness and response, including addressing outbreaks and public health events of regional and international concern such as cholera and Ebola. Public Health specialists in more than 40 African countries connect Commented [JD1]: this is more 200 words but I've cut what I can already through ECHO sessions to share information on infectious disease outbreaks and International Health Regulation implementation.", "Since 2019, Project ECHO has been a part of a consortium to support the One Health Workforce for the Next Generation training activities in Asia and Africa"]
+                }
+            ]
+        }
+    ],
+    "programs": {
+        "title":"Programs",
+        "description":"",
+        "lists": [
+            {
+                "heading": "Africa ECHO Programs",
+                "items": ["HIV: Namibia, Kenya, Cote d'Ivoire, Tanzania, Nigeria, South Sudan, Zambia, Malawi, and Democratic Republic of Congo (DRC).", "Lab (HIV rapid testing, Antimicrobial Resistance, chemical pathology): Tanzania, Uganda, South Africa, Kenya, Cote d'Ivoire", "LabCoP (Viral Load Scale Up): Sierra Leone, Ethiopia, South Sudan, Kenya, Uganda, DRC, Tanzania, Zambia, Malawi, Zimbabwe, South Africa", "TB: Kenya (2), Uganda, Tanzania, Mozambique, Namibia", "Global Health Security: Four regional networks (Southern, Eastern, Central and Western Africa) connecting over 40 countries", "Other topics: Autism (Kenya), Infection Prevention and Control (South Africa), Pulmonary Diseases (Ethiopia), Safe Surgery (Tanzania)"]
+            },
+            {
+                "heading": "Asia ECHO Programs",
+                "items": ["HIV: Kazakhstan, Kyrgyzstan, Tajikistan, Myanmar, India", "TB: Vietnam, India PACT, and Indonesia: Field Epidemiology Training Program (FETP)", "TB: Safe Surgery: Cambodia"]
+            },
+            {
+                "heading": "Latin America ECHO Programs",
+                "items": ["HIV: Caribbean Islands, Uruguay, Guatemala, Honduras, and El Salvador", "TB: Guatemala, Panama, Guatemala, Honduras, and El Salvador"]
+            },
+            {
+                "heading": "Africa MetaECHO Collaborative",
+                "items": ["The Africa MetaECHO Collaborative is open to all ECHO program leads in Africa."]
+            }
+        ],
+        "links": [
+            {
+                "name":"",
+                "url":""
+            }
+        ]
+
+    },
+    "team_members":[
+        {
+            "name":"Bruce Baird Struminger, MD, MA, FACP",
+            "role":"Associate Director"
+        },
+        {
+            "name":"Karla Thornton, MD, MPH",
+            "role":"Associate Director"
+        },
+        {
+            "name":"Michelle Iandiorio, MD",
+            "role":"Medical Director"
+        },
+        {
+            "name":"Jutta Lehmer",
+            "role":"Senior Program Manager"
+        },
+        {
+            "name":"Amy Armistad",
+            "role":"Senior Program Manager"
+        },
+        {
+            "name":"Lauren Burke",
+            "role":"Senior Program Manager"
+        },
+        {
+            "name":"Amanda Dezan",
+            "role":"Program Manager "
+        },
+        {
+            "name":"Constance Were, MBA",
+            "role":"Program Specialist"
+        }
+    ], 
+    "contact":{
+        "name": "",
+        "link": ""
+    },
+    "resources": [
+        {
+            "name":"ECHO in Africa",
+            "link":"https://hsc.unm.edu/echo/_docs/program-docs/echo-in-africa.pdf"
+        },
+        {
+            "name":"HIV ECHOs Globally",
+            "link":"https://hsc.unm.edu/echo/_docs/program-docs/hiv-echo.pdf"
+        }
+    ],
+    "partners": [
+        {
+            "name":"Academic Model Providing Access to Healthcare (AMPATH)",
+            "link":"https://www.ampathkenya.org/"
+        },
+        {
+            "name":"Africa CDC",
+            "link":"http://www.africacdc.org/"
+        },
+        {
+            "name":"African Society for Laboratory Medicine (ASLM)",
+            "link":"http://www.aslm.org/"
+        },
+        {
+            "name":"American Society for Microbiology (ASM)",
+            "link":"https://www.asm.org/"
+        },
+        {
+            "name":"Association of Public Health Laboratories (APHL)",
+            "link":"https://www.aphl.org/"
+        },
+        {
+            "name":"Elizabeth Glaser Pediatric AIDS Foundation (EGPAF) ",
+            "link":""
+        },
+        {
+            "name":"Health Resources and Services Administration (HRSA)",
+            "link":"https://www.hrsa.gov/"
+        },
+        {
+            "name":"ICAP Columbia University",
+            "link":"https://icap.columbia.edu/"
+        },
+        {
+            "name":"International Training and Education Center for Health (I-TECH)",
+            "link":"https://www.go2itech.org/"
+        },
+        {
+            "name":"Jhpiego (Johns Hopkins University Affiliate)",
+            "link":"https://www.jhpiego.org/"
+        },
+        {
+            "name":"Lighthouse in Malawi ",
+            "link":""
+        },
+        {
+            "name":"University of Maryland at Baltimore and country offices",
+            "link":"http://www.ihv.org/"
+        },
+        {
+            "name":"US Centers for Disease Control and Prevention and various country offices and other local and governmental organizations",
+            "link":"https://www.cdc.gov/"
+        },
+        {
+            "name":"PCAT ",
+            "link":""
+        },
+        {
+            "name":"University of California Davis",
+            "link":""
+        },
+        {
+            "name":"Sandia National Laboratories ",
+            "link":""
+        },
+        {
+            "name":"USAID",
+            "link":""
+        },
+        {
+            "name":"Ministries of Health: Cote d'Ivoire, Kenya, Namibia, Nigeria, South Africa, Uganda, Zambia, Myanmar, and Tanzania",
+            "link":""
+        }
+    ]
+    
+
+
+}
+
+]
