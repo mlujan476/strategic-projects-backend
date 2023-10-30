@@ -41,59 +41,73 @@
     "team_members":[
         {
             "name":"Heini Utunen, PhD",
-            "role":"WHO Responsible Officer, Unit Head, Learning and Capacity Development, WHO Health Emergencies Programme, World Health Organization"
+            "role":"WHO Responsible Officer, Unit Head, Learning and Capacity Development, WHO Health Emergencies Programme, World Health Organization",
+            "organization": "Project ECHO"
         },
         {
             "name":"Bruce Struminger, MD, MA, FACP",
-            "role":"Senior Associate Director and ECHO's Global Health Initiatives Leader"
+            "role":"Senior Associate Director and ECHO's Global Health Initiatives Leader",
+            "organization": "Project ECHO"
         },
         {
             "name":"Amy Groom, MPH",
-            "role":"Director of Immunization Initiatives and Deputy Associate"
+            "role":"Director of Immunization Initiatives and Deputy Associate",
+            "organization": "Project ECHO"
         },
         {
             "name":"Amy Armistad, MA",
-            "role":"Strategic Support Manager"
+            "role":"Strategic Support Manager",
+            "organization": "Project ECHO"
         },
         {
             "name":"Jutta Lehmer",
-            "role":"Strategic Support Manager"
+            "role":"Strategic Support Manager",
+            "organization": "Project ECHO"
         },
         {
             "name":"Lauren Burke, BA",
-            "role":"Strategic Support Manager"
+            "role":"Strategic Support Manager",
+            "organization": "Project ECHO"
         },
         {
             "name":"Alexa Copeland",
-            "role":"Program Manager"
+            "role":"Program Manager",
+            "organization": "Project ECHO"
         },
         {
             "name":"Amanda Dean",
-            "role":"Program Manager"
+            "role":"Program Manager",
+            "organization": "Project ECHO"
         },
         {
             "name":"Constance Were",
-            "role":"Program Planning Manager"
+            "role":"Program Planning Manager",
+            "organization": "Project ECHO"
         },
         {
             "name":"Iiris Rinne, M. ED",
-            "role":"Program Specialist"
+            "role":"Program Specialist",
+            "organization": "Project ECHO"
         },
         {
             "name":"Michelle Morrison",
-            "role":"Program Specialist"
+            "role":"Program Specialist",
+            "organization": "Project ECHO"
         },
         {
             "name":"NoaNoa Laget-Hudson",
-            "role":"Program Specialist"
+            "role":"Program Specialist",
+            "organization": "Project ECHO"
         },
         {
             "name":"Samantha Nagel",
-            "role":"Program Specialist"
+            "role":"Program Specialist",
+            "organization": "Project ECHO"
         },
         {
             "name":"Shannon McKenna",
-            "role":"Data Analyst"
+            "role":"Data Analyst",
+            "organization": "Project ECHO"
         }
     ], 
     "contact":{
@@ -262,11 +276,13 @@
     "team_members":[
         {
             "name":"Lisa Marr, MD",
-            "role":"Co-Medical Director, New Mexico Palliative Care ECHO"
+            "role":"Co-Medical Director, New Mexico Palliative Care ECHO",
+            "organization": "Project ECHO"
         },
         {
             "name":"Chris Piromalli, DO, MPH",
-            "role":"Co-Medical Director, New Mexico Palliative Care ECHO"
+            "role":"Co-Medical Director, New Mexico Palliative Care ECHO",
+            "organization": "Project ECHO"
         }
     ], 
     "contact":{
@@ -359,35 +375,43 @@
     "team_members":[
         {
             "name":"Bruce Baird Struminger, MD, MA, FACP",
-            "role":"Associate Director"
+            "role":"Associate Director",
+            "organization": "Project ECHO"
         },
         {
             "name":"Karla Thornton, MD, MPH",
-            "role":"Associate Director"
+            "role":"Associate Director",
+            "organization": "Project ECHO"
         },
         {
             "name":"Michelle Iandiorio, MD",
-            "role":"Medical Director"
+            "role":"Medical Director",
+            "organization": "HIV ECHO"
         },
         {
             "name":"Jutta Lehmer",
-            "role":"Senior Program Manager"
+            "role":"Senior Program Manager",
+            "organization": "Project ECHO"
         },
         {
             "name":"Amy Armistad",
-            "role":"Senior Program Manager"
+            "role":"Senior Program Manager",
+            "organization": "Project ECHO"
         },
         {
             "name":"Lauren Burke",
-            "role":"Senior Program Manager"
+            "role":"Senior Program Manager",
+            "organization": "Project ECHO"
         },
         {
             "name":"Amanda Dezan",
-            "role":"Program Manager "
+            "role":"Program Manager",
+            "organization": "Project ECHO"
         },
         {
             "name":"Constance Were, MBA",
-            "role":"Program Specialist"
+            "role":"Program Specialist",
+            "organization": "Project ECHO"
         }
     ], 
     "contact":{
@@ -479,6 +503,539 @@
         }
     ]
     
+
+
+},
+
+{
+    "title": "Health Care Needs and Solutions for Low- and Middle-Income Countries",
+    "path":"lmic-needs-assesment",
+    "bannerUrl": "",
+    "description":"Throughout 2022, Project ECHO researchers met with ECHO partners, ministries of health, and other key constituents in 35 low- and middle-income countries (LMICs) in Africa, Latin America, Southeast Asia and India. Through one-on-one interviews and surveys, along with our ongoing work in these countries and analysis of public health data, we gained a solid understanding of specific health care priorities and workforce capacity gaps. Common themes emerged, spanning multiple countries and regions. With this knowledge as a starting point, ECHO held roundtables with local health experts in all LMIC regions, with a goal of identifying solutions that could be implemented quickly, effectively, and at low cost. These workforce capacity building solutions apply the ECHO Model to some of the developing world's most intractable problems, including under-five mortality, infection prevention and control, and mental health, and can be easily replicated in any geography. We are excited to share our findings, which represent the hard work and creativity of ECHO partners around the globe. This report provides a road map for scalable and affordable solutions to strengthen health systems worldwide while improving lives and health outcomes.",
+    "goals": 
+    [
+        {
+            "title": "",
+            "description":"",
+            "lists": [
+                {
+                    "heading": "",
+                    "items": [""]
+                }   
+            ]
+        }
+    ],
+    "programs": {
+        "title":"",
+        "description":"",
+        "lists": [
+            {
+                "heading": "",
+                "items": [""]
+            }
+        ],
+        "links": [
+            {
+                "name":"",
+                "url":""
+            }
+        ]
+
+    },
+    "team_members":[
+        {
+            "name":"Cynthia McKinney, MA ",
+            "role":"Director of Corporate and Foundation Relations",
+            "organization": "Project ECHO"
+        }
+    ], 
+    "contact":{
+        "name": "Email Us",
+        "link": "mailto: cymckinney@salud.unm.edu"
+    },
+    "resources": [
+        {
+            "name":"Download LMIC Needs Assessment",
+            "link":"https://hsc.unm.edu/echo/partner-portal/echos-initiatives/lmic-needs-assement/project-echo-lmic-needs-assessment-report_05082023.pdf"
+        }
+    ],
+    "partners": [
+        {
+            "name":"",
+            "link":""
+        }
+    ]
+    
+
+
+},
+
+{
+    "title": "World Health Organization ECHO Collaborations",
+    "path":"WHO-Collaborations-Portal",
+    "bannerUrl": "",
+    "description":"The COVID-19 pandemic required WHO to leverage digital tools for collaboration in new ways, as WHO's existing models of operation (i.e. in- person meetings and country site visits) could not meet the demands of the global health emergency. Project ECHO has been a critical catalyst for WHO's headquarters and Regional Office for Africa in this digital transformation. Since 2020, the World Health Organization (WHO) and Project ECHO have partnered to host a variety of virtual learning activities ranging from large-scale webinars to smaller virtual communities of practice. This approach has enabled WHO to hear directly from countries, receive feedback on technical guidance or tools, and disseminate learning from WHO technical areas and guidelines in a broader, more equitable manner.",
+    "goals": 
+    [
+        {
+            "title": "",
+            "description":"",
+            "lists": [
+                {
+                    "heading": "WHO and ECHO Collaboration Areas",
+                    "items": ["Immunization","Nursing and Midwifery","Antimicrobial Resistance","Public Health Laboratory Strengthening","Emergency Preparedness and Response","HIV/AIDS","Infection Prevention and Control","Patient Safety","Hepatitis"]
+                }   
+            ]
+        }
+    ],
+    "programs": {
+        "title":"",
+        "description":"",
+        "lists": [
+            {
+                "heading": "",
+                "items": [""]
+            }
+        ],
+        "links": [
+            {
+                "name":"World Health Organization: HIV Pediatrics and Adolescent Updates",
+                "url":"https://hsc.unm.edu/echo/partner-portal/echos-initiatives/who-collaborations/who-hiv-peds-adoles.html"
+            },
+            {
+                "name":"Past Programs",
+                "url":"https://projectecho.box.com/s/f1s93qri7kyyfznw77dqghdvtwgs94an"
+            }
+        ]
+
+    }, 
+    "contact":{
+        "name": "Project ECHO Global Health Initiatives Team",
+        "link": "mailto:ECHOGlobalHealth@salud.unm.edu"
+    },
+    "team_members":[
+        {
+            "name":"",
+            "role":""
+        }
+    ],
+    "resources": [
+        {
+            "name":"WHO Headquarters Website",
+            "link":"https://www.who.int/"
+        }
+    ],
+    "partners": [
+        {
+            "name":"",
+            "link":""
+        }
+    ]
+
+
+},
+
+{
+    "title": "Indian Country ECHO Programs",
+    "path":"indian-health-services",
+    "bannerUrl": "",
+    "description":"Patients living in Indian Country must travel for hours to see HCV, HIV or tuberculosis specialists. And local health care centers often have too few specialty resources for patients and providers, who face unique geographic challenges. Our Indian Country ECHO programs are designed to enhance clinician's ability to screen, treat and manage patients with these conditions through didactic and case presentations, and recommendations from peers and a multidisciplinary team of specialists. Through our program, we are building a virtual community of learning and increasing access to high-quality specialty care in areas where patients may not otherwise have access.",
+    "goals": 
+    [
+        {
+            "title": "",
+            "description":"",
+            "lists": [
+                {
+                    "heading": "",
+                    "items": [""]
+                }   
+            ]
+        }
+    ],
+    "programs": {
+        "title":"Programs",
+        "description":"",
+        "lists": [
+            {
+                "heading": "",
+                "items": ["Indian Country HCV meets virtually the first and third Wednesday of the month from noon to 1 p.m. Mountain Time.", "Indian Country HIV meets virtually the second Wednesday of the month from noon to 1 p.m. Mountain Time.", "Indian Health Service Tuberculosis meets virtually the third Thursday of the month from 1 p.m. to 2:30 p.m. Mountain Time.", "Navajo Epidemiology meets virtually the fourth Wednesday of the month from 2 to 3 p.m. Mountain Time."]
+            },
+            {
+                "heading": "Target Audience",
+                "items": ["Physicians and Advanced Practice Providers", "Pharmacists and Nurses", "Medical Assistants", "Case Managers", "Community Health Workers", "Other Health care Professionals"]
+            }
+        ],
+        "links": [
+            {
+                "name":"",
+                "url":""
+            }
+        ]
+
+    }, 
+    "contact":{
+        "name": "For more information, email the team.",
+        "link": "ihsecho@salud.unm.edu"
+    },
+    "team_members":[
+        {
+            "name":"Diana Fortune, RN",
+            "role":"TB Nurse Consultant",
+            "organization": "National TB Controllers Association"
+        },
+        {
+            "name":"Jonathan Iralu, MD",
+            "role":"IHS Chief Clinical Consultant for Infectious Diseases",
+            "organization": "Department of Internal Medicine, Gallup Indian Medical Center"
+        },
+        {
+            "name":"Karla Thornton, MD",
+            "role":"IHS Chief Clinical Consultant for Infectious Diseases",
+            "organization": "Project ECHO"
+        },
+        {
+            "name":"Paulina Deming, MD",
+            "role":"Medical Director",
+            "organization": "Indian Country Hepatitis-C ECHO Clinic"
+        },
+        {
+            "name":"Branden Reeves",
+            "role":"Operations Specialist",
+            "organization": "UNM AETC"
+        },
+        {
+            "name":"Amy Armistad, MA",
+            "role":"Senior Program Manager",
+            "organization": "Project ECHO"
+        },
+        {
+            "name":"Bruce Struminger, MD",
+            "role":"Associate Director",
+            "organization": "Project ECHO"
+        }
+    ],
+    "resources": [
+        {
+            "name":"View our HIV Case Presentation Form",
+            "link":"https://redcap.link/unmhiv_case_form"
+        },
+        {
+            "name":"Read our HIV Indian Country Flyer",
+            "link":"https://hsc.unm.edu/echo/_docs/indian-country-hiv/indian-country-hiv-teleecho-flyer-2020-10-accesible.pdf"
+        },
+        {
+            "name":"Review our Initial Presentation Form",
+            "link":"https://iecho.unm.edu/sites/unm/download.hns?is=563846c7d671a252559b714bf63454bb"
+        },
+        {
+            "name":"See our Follow-up Presentation Form",
+            "link":"https://iecho.unm.edu/sites/unm/download.hns?is=c90544fdce6bbb7c003a2c460eb3f951"
+        }
+
+    ],
+    "partners": [
+        {
+            "name":"",
+            "link":""
+        }
+    ]
+
+
+},
+
+{
+    "title": "Navajo Epidemiology Program -- Navajo Naałnįįh Naalkaah ECHO",
+    "path":"navajo-epidemiology",
+    "bannerUrl": "",
+    "description":"Our program is a dynamic, epidemiology ECHO program. We offer a case-based community of practice for all types of public health and health care workers. The sessions are focused on emerging issues facing public health programs on the Navajo Nation. Participants will have an opportunity to share, learn and connect with each other through an interactive 'all teach, all learn' approach, using the ECHO model. All learners are welcome to join our online sessions.",
+    "goals": 
+    [
+        {
+            "title": "",
+            "description":"",
+            "lists": [
+                {
+                    "heading": "",
+                    "items": [""]
+                }   
+            ]
+        }
+    ],
+    "programs": {
+        "title":"Session Details",
+        "description":"This epidemiology program will consist of monthly one-hour virtual sessions on zoom.",
+        "lists": [
+            {
+                "heading": "",
+                "items": ["Sessions are held on the fourth Wednesday of the month from 2 to 3 p.m. Mountain Time."]
+            }
+        ],
+        "links": [
+            {
+                "name":"",
+                "url":""
+            }
+        ]
+
+    }, 
+    "contact":{
+        "name": "If you have any questions or would like to learn more, please email our team.",
+        "link": "ihsecho@salud.unm.edu"
+    },
+    "team_members":[
+        {
+            "name":"",
+            "role":"",
+            "organization":""
+        }
+    ],
+    "resources": [
+        {
+            "name":"Past Session Materials",
+            "link":"https://app.box.com/s/ebdavapuk8huhh1vemgokjr9n6eu0xes"
+        }
+    ],
+    "partners": [
+        {
+            "name":"",
+            "link":""
+        }
+    ]
+
+
+},
+
+{
+    "title": "The Schmidt Initiative for Long COVID Global ECHO Webinar Series",
+    "path":"silc",
+    "bannerUrl": "",
+    "description":"Join us each month for a webinar session on emerging best practices for identifying, diagnosing and treating patients with long COVID symptoms. This series, supported by the Schmidt Initiative for Long COVID, focuses on local providers in  low- and middle-income countries. Long COVID, or persisting symptoms following an acute COVID-19 infection, can include: fatigue, muscle pain, chest pain, blood clots and others. Each session includes a presentation by a subject-matter expert on emerging best practices and models of care, as well as a facilitated question-and-answer session. Topics include: neurocognitive, pulmonary, and cardiac manifestations of long COVID; pediatric post-COVID conditions; physical therapy and practical strategies for long COVID symptom management.",
+    "goals": 
+    [
+        {
+            "title": "",
+            "description":"",
+            "lists": [
+                {
+                    "heading": "",
+                    "items": [""]
+                }   
+            ]
+        }
+    ],
+    "programs": {
+        "title":"Program",
+        "description":"The one-hour webinar takes place every fourth week of the month, at two different times, to encourage participation from various time zones. Offered in English with simultaneous interpretation in Arabic, French, Portuguese and Spanish. This program is takes place through our iECHO platform; registration required. Once registered, you will receive reminder emails with a link to the course page.",
+        "lists": [
+            {
+                "heading": "Target Audience",
+                "items": ["Health care providers in low- and middle-income countries", "Ministries of Health staff members", "Academic medical center staff members"]
+            }
+        ],
+        "links": [
+            {
+                "name":"Register Now",
+                "url":"https://iecho.org/public/program/PRGM1678206703665XBA2JB5VDC"
+            }
+        ]
+
+    }, 
+    "contact":{
+        "name": "",
+        "link": ""
+    },
+    "team_members":[
+        {
+            "name":"",
+            "role":"",
+            "organization":""
+        }
+    ],
+    "resources": [
+        {
+            "name":"Topics and Presentation Slides",
+            "link":"https://app.box.com/s/onh1ma57ttjpi2c19qqxvmdao0kd2nsr"
+        }
+    ],
+    "partners": [
+        {
+            "name":"",
+            "link":""
+        }
+    ]
+
+
+},
+
+{
+    "title": "Telementoring, Equity and Advocacy Collaboration for Health through Antimicrobial Stewardship (TEACH AMS)",
+    "path":"teach-ams",
+    "bannerUrl": "",
+    "description":"",
+    "goals": 
+    [
+        {
+            "title": "An Opportunity to Strengthen Antimicrobial Stewardship in Low- and Middle-Income Countries (subheading)",
+            "description":"The Telementoring, Equity and Advocacy Collaboration for Health through Antimicrobial Stewardship (TEACH AMS) initiative is a collaboration between Project ECHO and Pfizer seeking to expand access to best-practice, comprehensive antimicrobial stewardship (AMS) to underserved patients and their families in low- and middle-income countries. The goal of the initiative is to design and implement sustainable AMS telementoring networks in hospitals by engaging and building the capacity of local, regional, and national stakeholders using the ECHO Model, a scalable hub-and-spoke based framework for virtual learning, guidance, and support between peers and subject matter experts. The focus in the first year of the initiative has been on launching TEACH AMS ECHO programs in Uganda, Kenya, Ghana, and Malawi, with plans to expand into Latin America in 2024.",
+            "lists": [
+                {
+                    "heading": "",
+                    "items": [""]
+                }   
+            ]
+        }
+    ],
+    "programs": {
+        "title":"Curriculum",
+        "description":"Content included in the core curriculum has been developed by the American Society for Microbiology in partnership with independent subject matter experts in each of the target countries. Each session includes a short didactic presentation on one of the core topics and a case presentation from learners for discussion and collaborative problem solving. For a full list of topics to be covered in TEACH AMS ECHO sessions please see the 'Resource Guide for TEACH AMS Curriculum' under Resources.",
+        "lists": [
+            {
+                "heading": "Programs",
+                "items": ["National Public Health Laboratory Services of the Ministry of Health Kenya: Integrated AMR, AMS and IPC ECHO (launched August 23, 2023)", "Ministry of Health Uganda: TEACH AMS ECHO (launched October 16, 2023)", "Ministry of Health Malawi: TEACH AMS ECHO (launched November 1, 2023)", "Ministry of Health Ghana: TEACH AMS ECHO (launched November 1, 2023)"]
+            }
+        ],
+        "links": [
+            {
+                "name":"",
+                "url":""
+            }
+        ]
+
+    }, 
+    "contact":{
+        "name": "",
+        "link": ""
+    },
+    "team_members":[
+        {
+            "name":"",
+            "role":"",
+            "organization":""
+        }
+    ],
+    "resources": [
+        {
+            "name":"Resource Guide for TEACH AMS Curriculum",
+            "link":"https://app.box.com/s/mdh3jj3nt5shmv157k2i7uo7itb6bsb2/file/1329678524437"
+        },
+        {
+            "name":"TEACH AMS Initiative General Flyer",
+            "link":"https://app.box.com/s/mdh3jj3nt5shmv157k2i7uo7itb6bsb2/file/1329681865937"
+        },
+        {
+            "name":"TEACH AMS Facility Assessment",
+            "link":"https://ctsctrials.health.unm.edu/redcap/surveys/?s=KNJN3CA3JJHXM9HL"
+        },
+        {
+            "name":"Antimicrobial Stewardship Programmes in Healthcare Facilities in Low- and Middle-income Countries – A WHO Practical Toolkit",
+            "link":"https://apps.who.int/iris/handle/10665/329404"
+        }
+    ],
+    "partners": [
+        {
+            "name":"Pfizer",
+            "link":"https://www.pfizer.com/"
+        },
+        {
+            "name":"Surveillance Partnership to Improve Data for Action on Antimicrobial Resistance (SPIDAAR)er",
+            "link":"https://www.pfizer.com/news/press-release/press-release-detail/pfizer-and-wellcome-launch-surveillance-program-combat"
+        },
+        {
+            "name":"Ministries of Health",
+            "link":""
+        },
+        {
+            "name":"American Society for Microbiology (ASM)",
+            "link":"https://asm.org/"
+        },
+        {
+            "name":"Jhpiego",
+            "link":"https://www.jhpiego.org/"
+        },
+        {
+            "name":"Infection Prevention and Control Network Kenya (IPNET-K)",
+            "link":"https://www.ipnetkenya.org/"
+        },
+        {
+            "name":"Antimicrobial Resistance Coordination Committees (AMRCC)",
+            "link":""
+        }
+    ]	
+},
+
+{
+    "title": "ECHO Gender Equity Initiative",
+    "path":"gender-equity",
+    "bannerUrl": "",
+    "description":"Project ECHO has been working to reduce inequities in health care since 2003, helping remote and underserved communities’ access critical, life-saving knowledge. Over the past year, we have brought together a multidisciplinary team to explore how the ECHO Model can best be deployed to promote gender equity. Collaborating with our partners, advisors, and ECHO staff, we have gained deep insights into the ways in which gender equity plays a substantial role in health, education, and well-being. The ECHO model by design, supports gender equity optimizing access to education and skills for ALL people.",
+    "goals": 
+    [
+        {
+            "title": "Our Mission",
+            "description":"Project ECHO supports a gender-equal world where all people are safe, valued and achieve equitable health and education throughout their lifespan.",
+            "lists": [
+                {
+                    "heading": "",
+                    "items": [""]
+                }   
+            ]
+        }
+    ],
+    "programs": {
+        "title":"",
+        "description":"",
+        "lists": [
+            {
+                "heading": "",
+                "items": [""]
+            }
+        ],
+        "links": [
+            {
+                "name":"",
+                "url":""
+            }
+        ]
+
+    }, 
+    "contact":{
+        "name": "Gender Equity Initiative",
+        "link": "mailto:echogenderequity@salud.unm.edu"
+    },
+    "team_members":[
+        {
+            "name":"Dr. Judy Palfrey",
+            "role":"ECHO Global Pediatric Ambassador",
+            "organization":""
+        },
+        {
+            "name":"Simran Priel, MPH, RM, IBCLC",
+            "role":"Director of Gender Equity",
+            "organization":"Project ECHO"
+        },
+        {
+            "name":"Clara Lopes, MA",
+            "role":"Sr. Program Manager",
+            "organization":"Project ECHO"
+        }
+    ],
+    "resources": [
+        {
+            "name":"Women's and Girls' Health, Gender Equity, and the ECHO Model",
+            "link":"https://word-edit.officeapps.live.com/we/Project ECHO Gender Equity Program Overview October23.pdf"
+        },
+        {
+            "name":"Gender Equity Flyer",
+            "link":"https://word-edit.officeapps.live.com/we/MetaECHO23 Flyer Final.pdf"
+        }
+    ],
+    "partners": [
+        {
+            "name":"",
+            "link":""
+        }
+    ]
 
 
 }
