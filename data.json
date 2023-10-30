@@ -32,17 +32,18 @@
             }
         ]
 
-    },
-    "team_members":[
-        {
-            "name":"",
-            "role":""
-        }
-    ], 
+    }, 
     "contact":{
         "name": "",
         "link": ""
     },
+    "team_members":[
+        {
+            "name":"",
+            "role":"",
+            "organization":""
+        }
+    ],
     "resources": [
         {
             "name":"",
@@ -55,7 +56,6 @@
             "link":""
         }
     ]
-    
 
 
 }
