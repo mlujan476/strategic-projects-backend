@@ -2,7 +2,8 @@
 {
     "title": "WHO Collaborating Center for Digital Learning in Health Emergencies",
     "path":"WHO-Collaborating-Center",
-    "bannerUrl": "",
+    "bannerUrl": "banner_who_collab.png",
+    "banner_2":"WHOCCHSCProjectECHO.png",
     "description":"Welcome to the World Health Organization Collaborating Center for Digital Learning in Health Emergencies, the first WHO Collaborating Center dedicated to advancing digital learning for strengthening emergency preparedness and response.",
     "goals": [
         {
@@ -19,6 +20,10 @@
     ],
     "programs":  {
         "title":"WHO Collaborations",
+        "secondaryButton":{
+            "innerHtml":"",
+            "url":""
+        },
         "description":"Together with WHO, we're committed to democratizing knowledge and best practices, ensuring equitable access to life-saving information for public health leaders and frontline workers in underserved communities. Our efforts span crucial areas, including COVID-19 immunization, infection prevention and control, Integrated Disease Surveillance and Response (IDSR), antimicrobial resistance, patient safety, nursing and midwifery, public health laboratory strengthening, and HIV, Viral Hepatitis, and STIs.",
         "lists": [{
             "heading": "",
@@ -39,11 +44,7 @@
         }
     ],
     "team_members":[
-        {
-            "name":"Heini Utunen, PhD",
-            "role":"WHO Responsible Officer, Unit Head, Learning and Capacity Development, WHO Health Emergencies Programme, World Health Organization",
-            "organization": "Project ECHO"
-        },
+        
         {
             "name":"Bruce Struminger, MD, MA, FACP",
             "role":"Senior Associate Director and ECHO's Global Health Initiatives Leader",
@@ -119,14 +120,18 @@
             "name":"",
             "link":""
         }
-    ]
+    ],
+    "funder": {
+        "description":"Heini Utunen, PhD - WHO Responsible Officer -- Unit Head, Learning and Capacity Development, WHO Health Emergencies Program, World Health Organization",
+        "url":""
+    }
 
 
 },
 
 {
     "title": "Revolutionizing Cancer Care Delivery",
-    "path":"",
+    "path":"cancer",
     "bannerUrl": "",
     "description":"Ninety percent of medical oncologists practice in urban areas, leaving rural communities without the capacity to screen, diagnose, and treat patients with cancer, many of whom are diagnosed at later and less treatable stages. People in nonmetropolitan counties are more likely to die from cancer than their urban and suburban counterparts, and that gap is widening. The ECHO Model amplifies the work of your organization to share best practices and increase provider satisfaction, self-efficacy, and capacity to decrease cancer disparities globally.",
     "goals": [
@@ -152,6 +157,10 @@
     ],
     "programs": {
         "title":"Cancer Collaborative",
+        "secondaryButton":{
+            "innerHtml":"",
+            "url":""
+        },
         "description":"The Cancer Collaborative is a monthly call to discuss program challenges and solutions, as well as grant and research opportunities for ECHO Cancer partners. Partners will have the opportunity to present their ECHO as a case to the network to learn best practices in the intricacies of operating an ECHO Hub in the cancer space. Register, view upcoming session details and other key resources: Cancer ECHO Collaborative Portal (secondary button)",
         "lists": [
             {
@@ -232,7 +241,12 @@
             "name":"",
             "link":""
         }
-    ]
+    ],
+    "funder": {
+        "heading":"",
+        "description":"",
+        "url":""
+    }
     
 
 
@@ -258,6 +272,10 @@
     ],
     "programs": {
         "title":"Collaborative Portal",
+        "secondaryButton":{
+            "innerHtml":"",
+            "url":""
+        },
         "description":"For more information, including participant and presenter registration, upcoming session details and key resources:",
         "lists": [
             {
@@ -300,7 +318,12 @@
             "name":"",
             "link":""
         }
-    ]
+    ],
+    "funder": {
+        "heading":"",
+        "description":"",
+        "url":""
+    }
     
 
 
@@ -345,6 +368,10 @@
     ],
     "programs": {
         "title":"Programs",
+        "secondaryButton":{
+            "innerHtml":"",
+            "url":""
+        },
         "description":"",
         "lists": [
             {
@@ -501,7 +528,12 @@
             "name":"Ministries of Health: Cote d'Ivoire, Kenya, Namibia, Nigeria, South Africa, Uganda, Zambia, Myanmar, and Tanzania",
             "link":""
         }
-    ]
+    ],
+    "funder": {
+        "heading":"",
+        "description":"",
+        "url":""
+    }
     
 
 
@@ -527,6 +559,10 @@
     ],
     "programs": {
         "title":"",
+        "secondaryButton":{
+            "innerHtml":"",
+            "url":""
+        },
         "description":"",
         "lists": [
             {
@@ -564,7 +600,12 @@
             "name":"",
             "link":""
         }
-    ]
+    ],
+    "funder": {
+        "heading":"",
+        "description":"",
+        "url":""
+    }
     
 
 
@@ -590,6 +631,10 @@
     ],
     "programs": {
         "title":"",
+        "secondaryButton":{
+            "innerHtml":"",
+            "url":""
+        },
         "description":"",
         "lists": [
             {
@@ -630,7 +675,12 @@
             "name":"",
             "link":""
         }
-    ]
+    ],
+    "funder": {
+        "heading":"",
+        "description":"",
+        "url":""
+    }
 
 
 },
@@ -655,6 +705,10 @@
     ],
     "programs": {
         "title":"Programs",
+        "secondaryButton":{
+            "innerHtml":"",
+            "url":""
+        },
         "description":"",
         "lists": [
             {
@@ -739,7 +793,12 @@
             "name":"",
             "link":""
         }
-    ]
+    ],
+    "funder": {
+        "heading":"",
+        "description":"",
+        "url":""
+    }
 
 
 },
@@ -764,6 +823,10 @@
     ],
     "programs": {
         "title":"Session Details",
+        "secondaryButton":{
+            "innerHtml":"",
+            "url":""
+        },
         "description":"This epidemiology program will consist of monthly one-hour virtual sessions on zoom.",
         "lists": [
             {
@@ -801,7 +864,12 @@
             "name":"",
             "link":""
         }
-    ]
+    ],
+    "funder": {
+        "heading":"",
+        "description":"",
+        "url":""
+    }
 
 
 },
@@ -826,6 +894,10 @@
     ],
     "programs": {
         "title":"Program",
+        "secondaryButton":{
+            "innerHtml":"",
+            "url":""
+        },
         "description":"The one-hour webinar takes place every fourth week of the month, at two different times, to encourage participation from various time zones. Offered in English with simultaneous interpretation in Arabic, French, Portuguese and Spanish. This program is takes place through our iECHO platform; registration required. Once registered, you will receive reminder emails with a link to the course page.",
         "lists": [
             {
@@ -863,7 +935,12 @@
             "name":"",
             "link":""
         }
-    ]
+    ],
+    "funder": {
+        "heading":"",
+        "description":"",
+        "url":""
+    }
 
 
 },
@@ -888,6 +965,10 @@
     ],
     "programs": {
         "title":"Curriculum",
+        "secondaryButton":{
+            "innerHtml":"",
+            "url":""
+        },
         "description":"Content included in the core curriculum has been developed by the American Society for Microbiology in partnership with independent subject matter experts in each of the target countries. Each session includes a short didactic presentation on one of the core topics and a case presentation from learners for discussion and collaborative problem solving. For a full list of topics to be covered in TEACH AMS ECHO sessions please see the 'Resource Guide for TEACH AMS Curriculum' under Resources.",
         "lists": [
             {
@@ -961,7 +1042,12 @@
             "name":"Antimicrobial Resistance Coordination Committees (AMRCC)",
             "link":""
         }
-    ]	
+    ],
+    "funder": {
+        "heading":"",
+        "description":"",
+        "url":""
+    }
 },
 
 {
@@ -984,6 +1070,10 @@
     ],
     "programs": {
         "title":"",
+        "secondaryButton":{
+            "innerHtml":"",
+            "url":""
+        },
         "description":"",
         "lists": [
             {
@@ -1035,7 +1125,12 @@
             "name":"",
             "link":""
         }
-    ]
+    ],
+    "funder": {
+        "heading":"",
+        "description":"",
+        "url":""
+    }
 
 
 }

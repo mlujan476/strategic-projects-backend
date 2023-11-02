@@ -19,6 +19,10 @@
     "programs": {
         "title":"",
         "description":"",
+        "secondaryButton":{
+            "innerHtml":"",
+            "url":""
+        },
         "lists": [
             {
                 "heading": "",
@@ -55,7 +59,12 @@
             "name":"",
             "link":""
         }
-    ]
+    ],
+    "funder": {
+        "heading":"",
+        "description":"",
+        "url":""
+    }
 
 
 }
